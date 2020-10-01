@@ -1,6 +1,6 @@
 Directory structure
 -------------------
-
+```
 src/
   Mono.Cxxi
     The runtime library
@@ -15,7 +15,7 @@ tests/
 examples/
   Hello
     Small, Hello, World! example
-
+```
 Inlining
 --------
 
